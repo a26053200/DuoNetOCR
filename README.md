@@ -1,0 +1,2 @@
+# DuoNetOCR
+DuoNetOCR
